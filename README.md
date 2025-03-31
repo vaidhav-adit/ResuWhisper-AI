@@ -1,0 +1,2 @@
+# ResuWhisper AI
+ This project addresses these issues by leveraging Artificial Intelligence (AI) and Machine Learning (ML) to generate resumes, create personalized interview questions, and suggest job opportunities with probability assessments. By automating these critical job application steps, the system enhances job readiness, improves decision-making, and boosts confidence among job seekers, ensuring they are well-equipped to enter the professional world
