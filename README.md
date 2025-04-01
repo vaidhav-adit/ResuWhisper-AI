@@ -37,9 +37,7 @@ pip install python-dotenv pyttsx3 reportlab beautifulsoup4
    - Click "Generate Resume" and download in PDF/Word.
 4️⃣ **Get AI-Generated Interview Questions**
    - Click "Generate Questions" → AI provides 20 tailored interview questions.
-5️⃣ **AI Job Recommendations**
-   - Click "Find Jobs" → AI suggests jobs in Safety, Moderate, Reach categories.
-6️⃣ **Modify & Reuse Resume**
+5️⃣ **Modify & Reuse Resume**
    - Edit saved resumes anytime and re-download.
 
 ---
@@ -47,7 +45,6 @@ pip install python-dotenv pyttsx3 reportlab beautifulsoup4
 ## 🎯 Key Benefits & Impact
 ✅ **Automates Resume Creation** – Saves time and ensures professional formatting.  
 ✅ **AI-Powered Interview Preparation** – Prepares candidates for real-world job interviews.  
-✅ **Job Market Insights** – Helps users target the right companies with probability estimates.  
 ✅ **User-Friendly & Accessible** – No prior knowledge of resume writing is required.  
 ✅ **Storage & Reusability** – Allows users to edit, update, and refine resumes.
 
@@ -69,11 +66,7 @@ pip install python-dotenv pyttsx3 reportlab beautifulsoup4
 4️⃣ **AI-Generated Interview Questions**  
    - AI extracts skills and experience to generate customized questions.
 
-5️⃣ **AI-Powered Job Recommendation & Probability Analysis**  
-   - Matches user profiles with job market trends.
-   - Categorizes companies into **Safety, Moderate, and Reach** probability levels.
-
-6️⃣ **File Generation & Export System**  
+5️⃣ **File Generation & Export System**  
    - Generates resumes in PDF/Word format.
    - Creates an optional Letter of Intent for applications.
 
@@ -88,20 +81,17 @@ pip install python-dotenv pyttsx3 reportlab beautifulsoup4
 - **Resume Autofill System:** Standardized mapping of user inputs to templates.
 - **Audio Transcription Module:** Integrated Google Speech-to-Text API.
 - **Component Testing:** Verified AI-generated responses.
-- **Gemini API Integration:** AI-powered resume creation, job probability prediction, and interview question generation.
+- **Gemini API Integration:** AI-powered resume creation, and interview question generation.
 - **MySQL Database Integration:** Secure storage of user data.
 - **UI/UX Development:** Designed an interactive frontend using Streamlit.
 
 ### 🏆 Innovations & Unique Approaches
-- **Job Categorization Based on Probability Distribution** – Three-tiered job recommendations.
-- **Google Search API for Real-World Job Matching** – Fetches actual company names.
 - **AI-Generated Structured Resume Formats** – Ensures ATS compatibility.
+- **AI-Generated Personalized Questions** - Creates 20 custom tailored questions based on the users Resume
 
 ### ⚠️ Challenges Faced & Solutions
 - **UI/UX Constraints in Streamlit** – Improved layout using external CSS.
 - **String Parsing & Formatting Errors** – Applied structured text processing techniques.
-- **Building Probability-Based Job Categorization** – Developed custom scoring algorithms.
-- **Google Search API Filtering** – Improved query structuring for relevant job listings.
 - **AI Consistency in Resume Generation** – Used prompt engineering for structured output.
 
 ---
