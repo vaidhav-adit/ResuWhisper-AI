@@ -24,7 +24,7 @@ import uuid
 import json
 
 # Replace with your actual API key
-Google_API_Key = "AIzaSyCw8tLyHeobBO65GGnkLUVCGSMLdg-HsBw"  # Replace with your valid API key
+Google_API_Key = "Replace with your valid API key"
 genai.configure(api_key=Google_API_Key)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
